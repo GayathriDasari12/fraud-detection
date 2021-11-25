@@ -5,7 +5,7 @@
 *  We learn how we can detect such fradulent transaction in this project.
 ## technology
 * machine learning with python
-* anaconda3 
+* anaconda3 - jupyter notebook
  ### how to use
  *  Because it is a classification problem of identifying whether a transaction is legal or fraud we choose logistic regression as our algorithm.
  *  We identify a transaction based on the class variable value.
