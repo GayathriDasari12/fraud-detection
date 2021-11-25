@@ -12,4 +12,4 @@
  *  By looking on the data we get the idea that the class value 0 results a legal transaction.
  *  Based on this we find out whether a transaction is legal or not.
  #### credits
- * Gayathri Dasri (https://github.com/GayathriDasari12/fraud-detection.git)
+ * Gayathri Dasari (https://github.com/GayathriDasari12/fraud-detection.git)
