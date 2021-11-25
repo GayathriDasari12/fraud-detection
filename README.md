@@ -13,4 +13,3 @@
  *  Based on this we find out whether a transaction is legal or not.
  #### credits
  * Gayathri Dasri (https://github.com/GayathriDasari12/fraud-detection.git)
-* 
